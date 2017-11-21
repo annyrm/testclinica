@@ -167,3 +167,4 @@ authentication levels to discriminate the access to the various sections
 (user/password, access level, group, IP address). Test time, test activity,
 results, and statistics: every part of the test is managed and stored in the
 server, leaving no sensitive data in the users’ client computers.
+# testclinica
